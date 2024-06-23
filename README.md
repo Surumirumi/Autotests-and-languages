@@ -1,2 +1,2 @@
 # Autotests-and-languages
-This is rep for specific task by Stepil
+This is rep for specific task by Stepik
